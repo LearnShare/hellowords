@@ -5,4 +5,5 @@ Development environments and hellowords.
 ## List
 
 + C
-  + [C](./c/c/readme.md)
+  + [C](./c/c/)
+  + [C++](./c/cpp/)
